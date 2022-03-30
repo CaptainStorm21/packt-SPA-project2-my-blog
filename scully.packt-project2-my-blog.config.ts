@@ -7,7 +7,7 @@ export const config: ScullyConfig = {
     '/path/:id': {
       type: 'contentFolder',
       id: {
-        folder: "./posts"
+        folder: "./mdfiles"
       }
     },
   }
